@@ -1,0 +1,1 @@
+A small event manager app to gain understanding of handling and manipulating files in Ruby
